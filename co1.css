@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Poppins:wght@500&family=Roboto:ital,wght@0,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: rgb(191, 226, 248);
+}
+h3{
+    border: 1px solid #717377;
+    padding: 20px;
+    border-radius: 16px;
+    width: 1000px;
+    color: rgb(234, 237, 230);
+    background-color: transparent;
+    box-shadow: 0px 3px 15px rgba(243, 244, 247, 0.5);
+}
+body{
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background: linear-gradient(45deg,#060303,#1e2d41);
+}
+.container{
+    border: 1px solid #717377;
+    padding: 20px;
+    border-radius: 16px;
+    display: flex;
+    background-color: transparent;
+    box-shadow: 0px 3px 15px rgba(168, 191, 245, 0.5);
+}
+.cf{
+    width: 50%;
+    
+}
+input{
+    border: 1px solid #717377;
+    padding: 15px;
+    border-radius: 16px;
+    background-color: transparent;
+    box-shadow: 0px 3px 15px rgba(135, 144, 165, 0.5);
+}
